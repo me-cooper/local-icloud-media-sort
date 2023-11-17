@@ -2,6 +2,10 @@
 
 This tool facilitates the organization and restoration of albums from an exported iCloud media backup, encompassing both photos and videos. It is designed to streamline the sorting process of your media files, ensuring that your memories are easily accessible and well-organized.
 
+You can request a copy of your files here: https://privacy.apple.com/account
+
+`Request a copy of your data ` -> `iCloud Fotos`
+
 ## Sorting Format and Structure
 
 ### General Media
